@@ -1,0 +1,20 @@
+h1{
+
+  font-size: 100px;
+  font-style: italic;
+  text-align: center;
+  margin: 260px auto 0;
+}
+
+html{
+
+  background-color: grey;
+  cursor: url(../images/a.cur), auto;
+}
+
+p{
+  font-size: 100px;
+  font-style: italic;
+  text-align: center;
+  margin:50px;
+}
